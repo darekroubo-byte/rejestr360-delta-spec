@@ -1,3 +1,12 @@
+# Rejestr360 — audyty
+
+- **Aktualny (v4, 25.08.2026 ~09:20 CEST):** [Rejestr360_Audyt_Strategiczny_2026-08-25.pdf](./Rejestr360_Audyt_Strategiczny_2026-08-25.pdf)
+- Poprzedni (v3, 24.08.2026 22:06): [Rejestr360_Audyt_Strategiczny_2026-08-24.pdf](./Rejestr360_Audyt_Strategiczny_2026-08-24.pdf)
+
+Pobierz z telefonu (raw):
+https://raw.githubusercontent.com/darekroubo-byte/rejestr360-delta-spec/main/Rejestr360_Audyt_Strategiczny_2026-08-25.pdf
+
+
 # Rejestr360 — dokumenty do ściągnięcia
 
 Tymczasowe publiczne repo tylko po to, żeby PDF dało się kliknąć i ściągnąć z telefonu. Po pobraniu możesz je skasować.
